@@ -9,13 +9,15 @@ The smart contract allows any airdrop organizer to create an engaging **play-to-
 During the creation process, the organizer can specify the token that will be distributed to users, the total quantity of tokens, and the maximum limit of tokens per user, etc.
 The organizer can also set the timeframe for when the airdrop will begin and end.
 
-<img width="871" alt="Screenshot 2023-05-25 at 16 28 58" src="https://github.com/PartySpaceInc/mantlesc/assets/4603588/2ffb8db4-8e06-4d15-96f3-572090fa3970">
+<img width="871" alt="create_airdrop_window" src="https://github.com/PartySpaceInc/ps-mantle-phase0-project/assets/588422/1a41f775-76c0-473d-aa07-508fb19a4c57">
 
 When the designated time arrives, the airdrop begins in a specific virtual space in the form of a treasure hunt activity. This is open to all guests who are present in the virtual space at that time. 
 
 A device is activated for these guests enabling them to see hidden coins that may appear at any point in this space. A timer begins to count down the remaining time until the end of the treasure hunt activity. The more coins a guest finds and collects, the more tokens they can receive after the treasure hunt concludes.
 
-https://github.com/PartySpaceInc/mantlesc/assets/4603588/ed880032-d256-49eb-adca-7580893a53d9
+
+https://github.com/PartySpaceInc/ps-mantle-phase0-project/assets/588422/f08612c7-9d3a-41c7-8a10-4608f42011c9
+
 
 Once the timer runs out, all remaining coins disappear and a window with **Claim tokens** button appears. To receive the tokens, guests must click this button and submit a transaction to the smart contract. Please note, that guest need to have some BIT tokens on his wallet to pay for gas. 
 
